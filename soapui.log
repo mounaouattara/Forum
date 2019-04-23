@@ -1,0 +1,5 @@
+2019-01-31 20:25:37,542 WARN  [DefaultSoapUICore] Missing folder [C:\Users\Mouna OUATTARA\ext] for external libraries
+2019-01-31 20:25:37,756 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Mouna OUATTARA\soapui-settings.xml]
+2019-01-31 20:25:38,492 INFO  [WorkspaceImpl] Loading workspace from [C:\Users\Mouna OUATTARA\intellij-soapui-workspace.xml]
+2019-01-31 21:13:18,836 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\Mouna OUATTARA\intellij-soapui-workspace.xml]
+2019-01-31 21:13:18,844 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\Mouna OUATTARA\soapui-settings.xml]
